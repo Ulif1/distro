@@ -41,7 +41,7 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link" href="https://github.com/Ulif1/Creative_Project_3">GitHub Repo</a>
+          <a class="nav-link" href="https://github.com/Ulif1/distro">GitHub Repo</a>
         </li>
       </ul>
     </div>
